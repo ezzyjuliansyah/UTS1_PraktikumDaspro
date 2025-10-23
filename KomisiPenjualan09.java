@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KomisiPenjualan01 {
+public class KomisiPenjualan09 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
