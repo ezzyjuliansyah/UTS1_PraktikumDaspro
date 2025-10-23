@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ZonaDenyutJantung {
+public class ZonaDenyutJantung09 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
